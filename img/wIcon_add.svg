@@ -57,7 +57,7 @@
 	}
 	
     .fillWhite {
-		fill: #fff;
+		fill: #7ff;
 		fill-rule: nonzero
 	}
    ]]>
